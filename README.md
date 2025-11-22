@@ -7,3 +7,9 @@ Input:
 
 Output
    simple interest = p*t*r
+   # mcino-Introduction-to-Git-and-GitHub
+
+This repository contains materials for the Introduction to Git and GitHub course.
+
+## Footer
+© 2023 XYZ, Inc.
